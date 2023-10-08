@@ -39,7 +39,7 @@ body {
 }
 
 .wrapper .img-qr {
-    visibility: hidden;
+    visibility: visible;
 }
 
 .wrapper .img-qr.active {
